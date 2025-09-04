@@ -1,6 +1,6 @@
-#  Climate Data Analysis with NASA POWER API
+#  Climate Data Analysis with NASA Power API
 
-This project provides a **merged workflow** for analyzing climate data using the **NASA POWER API**.  
+This project provides a **merged workflow** for analyzing climate data using the **NASA Power API**.  
 It combines fetching, processing, visualization, and exporting in one clean pipeline.
 
 ---
